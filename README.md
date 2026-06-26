@@ -128,27 +128,7 @@ Example:
 
 ---
 
-## How to Run
 
-Compile the program:
-
-```bash
-gcc tsptw_solver.c -o tsptw_solver -lm
-```
-
-Run it with an input and output file:
-
-```bash
-./tsptw_solver input.txt output.txt
-```
-
-Example:
-
-```bash
-./tsptw_solver inputs/input-1.txt outputs/output-1.txt
-```
-
----
 
 ## Project Structure
 
@@ -190,6 +170,3 @@ TSPTW-Heuristic-Solver/
 
 ---
 
-## Academic Project
-
-This project was developed as a university algorithm project to explore heuristic solutions for routing and optimization problems.
